@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBLX Name Bypasser", "RBLX Name Bypasser\RBLX Name Bypasser.csproj", "{54EA8E93-DD2E-4429-AF63-B21A07E95735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54EA8E93-DD2E-4429-AF63-B21A07E95735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EA8E93-DD2E-4429-AF63-B21A07E95735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EA8E93-DD2E-4429-AF63-B21A07E95735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EA8E93-DD2E-4429-AF63-B21A07E95735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8BE58D-7E99-4468-BD89-5AD15C9AC663}
+	EndGlobalSection
+EndGlobal
